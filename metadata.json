@@ -1,0 +1,6 @@
+{
+  "name": "Aprova Bancários - Melhor Ano",
+  "description": "Página de vendas de alta conversão para o programa de formação e preparação Melhor Ano da Aprova Bancários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
